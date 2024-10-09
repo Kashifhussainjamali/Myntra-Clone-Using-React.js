@@ -1,0 +1,11 @@
+.maindiv{
+    background-color: rgb(243, 249, 252);
+    margin-top: 80px;
+    height: 50px;
+    text-align: center;
+}
+.text{
+    color: rgb(117, 117, 117);
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,0 +1,33 @@
+.kid1img{
+    width: 100vw;
+    margin-top: 80px;
+}
+.fvrt{
+    margin-left: 80px;
+    margin-top: 50px;
+    color: rgb(71, 71, 71);
+}
+.logoimg{
+    height: 150px;
+}
+.baby1{
+    margin-top: 70px;
+    height: 87px;
+}
+.dimg{
+    height: 316px;
+    margin-top: 50px;
+}
+.aimg{
+    height: 350px;
+}
+.numimg{
+    height: 780px;
+}
+.fixed{
+    position: fixed;
+    z-index: 150;
+    margin-top: 230px;
+    top: 0;
+    right: 0;
+}

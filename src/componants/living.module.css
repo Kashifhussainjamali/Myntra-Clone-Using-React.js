@@ -1,0 +1,49 @@
+.fixed{
+    position: fixed;
+    z-index: 50;
+    margin-top: 250px;
+    right: 0;
+}
+.txt{
+    margin-left: 80px;
+    margin-top: 50px;
+    color: rgb(71, 71, 71);
+}
+.furimg{
+    height: 350px;
+    margin-left: 10px;
+
+}
+.furimg:hover{
+    transform: scale(1.02);
+}
+.ul{
+    list-style: none;
+}
+.li{
+    font-size: 15px;
+    color: rgb(95, 95, 95);
+    margin-top: 3px;
+}
+.li:hover{
+    text-decoration: underline;
+}
+.beds{
+    background-color: rgb(238, 238, 238);
+    padding-left: 40px;
+    height: 430px;
+}
+.bedimgs{
+    height: 420px;
+    margin-left: 20px;
+}
+.bedimgs:hover{
+    transform: scale(1.02);
+}
+.signimg{
+    height:"110px";
+    margin-left:"70px";
+    margin-top:"20px";
+    margin-bottom: 30px;
+
+}

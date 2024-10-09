@@ -1,0 +1,33 @@
+.sections{
+    display: flex;
+  /* width: 210vh;  */
+  overflow-x: scroll;
+  overflow-y: hidden; 
+  margin-top: 30px;
+}
+.sections::-webkit-scrollbar {
+    width: 10px; 
+
+  }
+  
+  .sections::-webkit-scrollbar-track {
+    background: rgb(224, 224, 224);
+    border-radius: 10px;
+  }
+  
+  .sections::-webkit-scrollbar-thumb {
+    background-color: rgb(138, 0, 53); 
+    border-radius: 10px; 
+  }
+  .secimg{
+    display: flex;
+}
+.bigimg{
+    height: 420px;
+}
+.offall{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}

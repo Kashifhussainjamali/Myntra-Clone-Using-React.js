@@ -1,0 +1,93 @@
+.home-txt{
+    margin-left: 30px;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.home-txt1{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+.bund{
+    margin-left: 150px;
+    color: rgb(82, 82, 82);
+    font-size: 14px;
+    margin-top: 10px;
+}
+.reco{
+    border: 1px solid silver;
+    padding-left: 10px;
+    margin-left:530px;
+    height: 40px;
+}
+.fixed{
+    position: fixed;
+    z-index: 150;
+    margin-top: 230px;
+    top: 0;
+    right: 0;
+}
+.women{
+    width: 25px;
+    font-size: 10px;
+    color: red;
+    height: 15px;
+}
+.women{
+    accent-color: red; /* Change color of the radio button when checked */
+}
+.name{
+    font-size: 14px;
+    font-weight: 600;
+}
+.leftdiv{
+    width: 230px;
+}
+.line{
+    position: absolute;
+    height: 1085px;
+    width: 1px;
+    background-color: rgb(175, 175, 175);
+    z-index: 10000PX;
+    margin-left: 230px;
+    top: 0;
+    margin-top: 280px;
+}
+.check{
+    width: 25px;
+}
+.lables{
+    font-size: 14px;
+    margin-bottom: 5px;
+    padding: 0;
+    margin-left: 20px;
+    color: rgb(73, 73, 73);
+    accent-color:red;
+}
+.cato{
+    margin-left: 25px;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+.searchicon{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 90px;
+    background-color: rgb(230, 230, 230);
+    padding: 2px;
+    height: 25px;
+    border-radius: 50px;
+}
+.range{
+    width: 180px;
+    margin-left: 25px;
+    margin-top: 10px;
+    accent-color:red;
+}
+.data{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1050px;
+    overflow: hidden;
+    overflow-y: scroll;
+}

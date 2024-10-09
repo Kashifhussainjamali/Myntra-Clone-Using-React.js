@@ -1,0 +1,66 @@
+
+#name{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 13px;
+}
+#logoimg{
+    margin-left: 20px;
+}  
+.drop{
+    border-radius: 0;
+    border: none;
+    /* background-color: black; */
+}
+#color{
+    color: rgb(201, 0, 0);
+    font-weight: bold;
+    font-size: 13px;
+}
+#items{
+    font-weight: 600;
+    font-size: 13px;
+}
+.searchdiv{
+    margin-left: 200px;
+    height: 35px;
+    width: 350px;
+    border-radius: 4px;
+    padding: 3px;
+    background-color: rgb(235, 235, 235);
+}
+input{
+    background-color: rgb(235, 235, 235);
+    border: none;
+    width: 300px;
+    outline: none;
+    margin-left: 10px;
+}
+input::placeholder{
+    font-size: 13px;
+}
+.sicon{
+    margin-right: 10px;
+    font-size: 18px;
+}
+.iconsdiv{
+    margin-left: 35px;
+    font-size: 12px;
+    text-align: center;
+}
+.icons{
+    font-size: 20px;
+}
+#mainnav{
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    padding: 5px;
+}
+.active{
+    color: red;
+}

@@ -1,0 +1,18 @@
+.pimg{
+    height: 250px;
+}
+.txt1{
+    font-size: 13px;
+    color: rgb(105, 105, 105);
+    margin: 0;
+    padding: 0;
+}
+.mainproducts{
+    padding: 10px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+}
+.mainproducts:hover{
+    box-shadow: 1px 1px 2px 2px black;
+}
