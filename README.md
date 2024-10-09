@@ -1,8 +1,9 @@
-# React + Vite
+#Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Developed a responsive clone of Myntra using ReactJS with Context API for state management. 
+Implemented multiple pages with dynamic routing and handled state efficiently using hooks like useState, useRef, and useReducer.
+Focused on user-friendly navigation and seamless transitions between components. Integrated advanced styling and responsiveness for an optimized user experience."
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/621ed300-c2de-49af-9465-a43018119419
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
